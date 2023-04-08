@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(64, 207, 255); 
+    color: white;
+    position: absolute;
+    margin: 30px;
+  }
+  
+  h1 {
+  font-family: courier new;  
+  }
+  
+  h2{
+    font-family: verdana;
+    color:purple
+  }
+  
+  h3{
+    
+  }
+  
+  .Messi {
+    font-family: fantasy;
+    color: gray;
+  }
+  
+  #trayectoria {
+    position: relative;
+    left: 60px;
+    top:22px;
+  }
+  
+  #Seleccion {
+    position: relative;
+    left: 60px;
+    top:22px;
+  }
+  
+  #premios-colectivos{
+    position: relative;
+    left: 60px;
+    top:22px;  
+  }
+  
+  #premios-individuales {
+    position: relative;
+    left: 60px;
+    top:22px;
+  }
+  .tabla-1 
+  {
+    background: darkgrey
+  }
+  
